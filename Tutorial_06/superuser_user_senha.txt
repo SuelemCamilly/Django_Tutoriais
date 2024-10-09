@@ -1,0 +1,4 @@
+## Para Tutorial 06 ##
+
+Username: admin
+Password: admin
